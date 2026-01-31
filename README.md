@@ -1,4 +1,4 @@
-## Hi 👋 I'm Timur
+## Hi I'm Timur
 
 Web developer focused on frontend architecture,  
 UI logic, and responsive layouts.
@@ -36,7 +36,6 @@ Pinned repositories below highlight:
 - component patterns
 - small practical projects
 
----
 
 ### Currently exploring
 - cleaner component structure
